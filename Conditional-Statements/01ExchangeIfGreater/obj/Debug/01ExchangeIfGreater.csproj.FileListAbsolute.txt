@@ -1,0 +1,6 @@
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\ConsoleApplication1\obj\Debug\01ExchangeIfGreater.csprojResolveAssemblyReference.cache
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

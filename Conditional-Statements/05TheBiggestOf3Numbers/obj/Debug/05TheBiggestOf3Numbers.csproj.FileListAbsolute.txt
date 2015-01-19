@@ -1,0 +1,5 @@
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.exe.config
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.exe
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\05TheBiggestOf3Numbers\bin\Debug\05TheBiggestOf3Numbers.pdb
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\05TheBiggestOf3Numbers\obj\Debug\05TheBiggestOf3Numbers.exe
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\05TheBiggestOf3Numbers\obj\Debug\05TheBiggestOf3Numbers.pdb

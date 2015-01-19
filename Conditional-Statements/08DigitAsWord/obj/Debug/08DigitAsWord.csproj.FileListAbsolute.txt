@@ -1,0 +1,5 @@
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\08DigitAsWord\bin\Debug\08DigitAsWord.exe.config
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\08DigitAsWord\bin\Debug\08DigitAsWord.exe
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\08DigitAsWord\bin\Debug\08DigitAsWord.pdb
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\08DigitAsWord\obj\Debug\08DigitAsWord.exe
+c:\users\viki__000\documents\visual studio 2013\Projects\Conditional-Statements\08DigitAsWord\obj\Debug\08DigitAsWord.pdb
